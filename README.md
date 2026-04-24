@@ -44,9 +44,9 @@ Laravel • PHP • JavaScript • Tailwind CSS • MySQL
 
 ## 📊 GitHub Stats
 
-![Rafli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rflnhdyt626&show_icons=true&theme=tokyonight)
+![Rafli's GitHub stats](https://github-readme-stats.vercel.app/api?username=raflinurh&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rflnhdyt626&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raflinurh&layout=compact&theme=tokyonight)
 
 ---
 
