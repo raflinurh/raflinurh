@@ -1,8 +1,8 @@
 # Hi, I'm Rafli 👋
 
-**Aspiring Full Stack Developer**
+### Full-Stack Developer
 
-Building modern web applications while learning through real-world projects.
+Building **production-ready digital products** and transforming complex business requirements into efficient, scalable, and reliable systems.
 
 ---
 
@@ -11,11 +11,13 @@ Building modern web applications while learning through real-world projects.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -23,30 +25,48 @@ Building modern web applications while learning through real-world projects.
 
 ## 🧑‍💻 About Me
 
-- 🎓 Informatics Engineering student at **Telkom University Purwokerto**
-- 🌱 Currently learning through **real-world projects**
-- 💡 Interested in **full stack web development**
-- ⚡ Enjoy building things and understanding how systems work
+- 🎓 Informatics Engineering student at **Telkom University**
+- 💻 Focused on **Full-Stack Web Development**
+- 🏗️ Interested in building **production-ready systems**
+- 🔧 Experienced in developing and maintaining real-world web applications
+- 🚀 Learning through real-world projects and continuous experimentation
+- 🧠 Interested in **web architecture, system maintenance, APIs, databases, and algorithms**
 
 ---
 
-## 📌 Featured Project
+## 📚 Currently Learning
 
-### 🌐 Galaprimes
-
-Web application for automated digital top-up services.
-
-**Tech Used**
-
-Laravel • PHP • JavaScript • Tailwind CSS • MySQL
+```text
+Web Architecture
+Production System
+System Maintenance
+API Integration
+Database Design
+Algorithms & Data Structures
+Nuxt & Modern Frontend Development
+```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![Rafli's GitHub stats](https://github-readme-stats.vercel.app/api?username=raflinurh&show_icons=true&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/raflinurh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raflinurh&theme=tokyonight" />
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raflinurh&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raflinurh&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raflinurh&theme=tokyonight" />
+</p>
+---
+
+## 🌐 Portfolio
+
+Check out my portfolio to see more about my work, experience, and projects:
+
+**https://raflinhd.xyz**
 
 ---
 
@@ -55,8 +75,10 @@ Laravel • PHP • JavaScript • Tailwind CSS • MySQL
 - 🌐 Portfolio: https://raflinhd.xyz
 - 📧 Email: rafli.nurhidayat62@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/rafli-nurhidayat-748466288/
-- 📸 Instagram: [@raflinrh_](https://instagram.com/raflinrh_)
+- 📸 Instagram: https://instagram.com/raflinrh_
 
 ---
+
+> Fast. Clean. Scalable.
 
 ⭐ Always learning, building, and improving.
